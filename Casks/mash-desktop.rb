@@ -1,6 +1,6 @@
 cask "mash-desktop" do
-  version "0.2.1"
-  sha256 "067602589ea3710688d4ab954fb5bfa603e487604e23197491e1b7bd35c9a591"
+  version "0.2.2"
+  sha256 "556548f49c3f7706bbf0330721d99897257bc60a324bca9794db05bbe7ecab0a"
 
   url "https://github.com/grep-stack/mash/releases/download/v#{version}/mash-desktop-macos-arm64.dmg"
   name "Mash"
