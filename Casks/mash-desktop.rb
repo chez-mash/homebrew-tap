@@ -1,8 +1,8 @@
 cask "mash-desktop" do
-  version "0.2.3"
-  sha256 "75593620e3d5cd45bb46d82bbf4de2036f78deb88e9233cf707f92642a794834"
+  version "0.2.4"
+  sha256 "7b6ae1839406bb11af65fa72d41ce7e2061804c6c6d436b1578f08d402a041d7"
 
-  url "https://github.com/chez-mash/mash/releases/download/v#{version}/mash-desktop-macos-arm64.dmg"
+  url "https://github.com/mashhq/mash/releases/download/v#{version}/mash-desktop-macos-arm64.dmg"
   name "Mash"
   desc "Search past coding-agent chats in a desktop app"
   homepage "https://getmash.io/"
